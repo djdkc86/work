@@ -25,6 +25,23 @@ public class CMD{
 		this.contractNumber = contractNumber;
 	}
 
+	public String getSN(){
+		return serialNumber;
+	}
+
+	public String getModel(){
+		return model;
+	}
+
+	public String getUnit(){
+		return unit;
+	}
+
+	public String getLocation(){
+		return location;
+	}
+
+
 	public String toString(){
 		return serialNumber+";"+model+";"+unit+";"+location+";"+logisticStatus+";"+contractNumber;
 	}
