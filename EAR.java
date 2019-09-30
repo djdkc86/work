@@ -5,6 +5,7 @@ public class EAR{
 	private String serialNumber;
 	private String location;
 	private String subLocation;
+	private String partNumber;
 
 	public EAR(String subLocation, String model, String sn, String unit){
 		setDescription(unit);
@@ -12,6 +13,8 @@ public class EAR{
 		this.serialNumber = sn;
 		setLocation(unit);
 		this.subLocation = subLocation;
+		checkForPartNumber(model);
+		setNomenclature();
 	}
 	
 	public void setDescription(String s){
@@ -36,7 +39,31 @@ public class EAR{
 		return location;
 	}
 
+	public void setPartNumber(String s){
+		String ss = s.replaceAll("[\\[\\]()\"]","");
+		this.partNumber = ss;
+	}
+
+	public void checkForPartNumber(String s){
+		String string = s.replaceAll("\"","");
+		String [] ss = string.trim().split(" ");
+		if(ss[ss.length - 1].startsWith("[") || ss[ss.length - 1].startsWith("(")){
+			if(ss[ss.length - 2].startsWith("(") || ss[ss.length - 2].startsWith("[")) setPartNumber(ss[ss.length - 2]);
+			else setPartNumber(ss[ss.length - 1]);
+		}
+
+	}
+
+	public void setNomenclature(){
+		this.nomenclature = nomenclature.replace("\"", "");
+	}
+
+	public String getNomenclature(){
+		return nomenclature;
+	}
+
 	public String toString(){
-		return ";"+systemDescription+";"+nomenclature+";;"+serialNumber+";;;;;;;;;;"+location+";"+subLocation;
+		if(partNumber != null) return ";"+systemDescription+";"+nomenclature+";;"+serialNumber+";"+partNumber+";;;;;;;;;;"+location+";"+subLocation;
+		else return ";"+systemDescription+";"+nomenclature+";;"+serialNumber+";;;;;;;;;;;"+location+";"+subLocation;
 	}
 }
