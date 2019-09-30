@@ -1,15 +1,12 @@
 ;CCS;10' A Frame Ladder;;;;;;;;;;;;;CCS;Bay 1
 ;CCS;12' A Frame Ladder;;;;;;;;;;;;;CCS;Bay 2
-;CCS;22 SAMSUNG 226BW;;"ME22H9LPC02888Y;;;;;;;;;;;CCS;CCS IOS SIMI IG
+;CCS;22 SAMSUNG 226BW;;ME22H9LPC02888Y;;;;;;;;;;;CCS;CCS IOS SIMI IG
 ;CCS;24' Ladder;;CCSLM;;;;;;;;;;;CCS;Bay 5
 ;CCS;4' Ladder;;;;;;;;;;;;;CCS;Bay 3
 ;CCS;4' Ladder;;;;;;;;;;;;;CCS;Bay 3
 ;CCS;6' Werner Ladder;;;;;;;;;;;;;CCS;Bay 3
 ;CCS;AAR Station [16331ASSY6403364G1];;LOC001;16331ASSY6403364G1;;;;;;;;;;CCS;CCS IOS
 ;CCS;Air Dryer;;2608366-11C;;;;;;;;;;;CCS;CCS Bay 4
-;CCS;AMPLIFIER, VIDEO DISTRIBUTUION, EXTRON [60-246-03];;LOC010;60-246-03;;;;;;;;;;CCS;CCS IOS
-;CCS;AMPLIFIER, VIDEO DISTRIBUTUION, EXTRON [60-246-03];;LOC011;60-246-03;;;;;;;;;;CCS;CCS IOS
-;CCS;AMPLIFIER, VIDEO DISTRIBUTUION, EXTRON [60-246-03];;LOC012;60-246-03;;;;;;;;;;CCS;CCS IOS
 ;CCS;Battery charger/conditioner;;83969;;;;;;;;;;;CCS;CCS Back Room
 ;CCS;BFT Keyboard;;112717038336;;;;;;;;;;;CCS;CCS Bay 6
 ;CCS;BFT Keyboard;;BAK042808017677;;;;;;;;;;;CCS;CCS Bay 5
@@ -22,13 +19,6 @@
 ;CCS;CCS 16 port KVM Switch;;9707ACPCB3600400047;;;;;;;;;;;CCS;CCS Bay 5
 ;CCS;CCS 16 port KVM Switch;;9707ACPCB600400127;;;;;;;;;;;CCS;CCS Bay 2
 ;CCS;CCS 16 port KVM Switch;;9707ACPCB600400392;;;;;;;;;;;CCS;CCS Bay 1
-;CCS;CCS AAR VGA/Audio Switch;;A02U4EY;;;;;;;;;;;CCS;CCS BAY 3
-;CCS;CCS AAR VGA/Audio Switch;;A02U4EZ;;;;;;;;;;;CCS;CCS BAY 3
-;CCS;CCS AAR VGA/Audio Switch;;A02U4F4;;;;;;;;;;;CCS;CCS BAY 3
-;CCS;CCS AAR VGA/Audio Switch;;A04GVGV;;;;;;;;;;;CCS;CCS BAY 6
-;CCS;CCS AAR VGA/Audio Switch;;A04GVHL;;;;;;;;;;;CCS;CCS BAY 6
-;CCS;CCS AAR VGA/Audio Switch;;A04GVHS;;;;;;;;;;;CCS;CCS BAY 6
-;CCS;CCS AAR VGA/Audio Switch;;LOCA001;;;;;;;;;;;CCS;CCS IOS
 ;CCS;CCS Audio Amp PS802;;0701A020;;;;;;;;;;;CCS;CCS Bay 3
 ;CCS;CCS Audio Amp PS802;;0701A041;;;;;;;;;;;CCS;CCS Bay 5
 ;CCS;CCS Audio Amp PS802;;0701A042;;;;;;;;;;;CCS;CCS Bay 5
@@ -222,10 +212,6 @@
 ;CCS;CCS Weapons PC;;A086866;;;;;;;;;;;CCS;CCS Bay 5
 ;CCS;CCS Weapons PC;;A086870;;;;;;;;;;;CCS;CCS Bay 2
 ;CCS;CCS Weapons PC;;A086875;;;;;;;;;;;CCS;CCS Bay 3
-;CCS;ECHO LAYLA 3G, Digital Recorder, PCI;;LOCL003;;;;;;;;;;;CCS;CCS BAY 3
-;CCS;ECHO LAYLA 3G, Digital Recorder, PCI;;LOCL004;;;;;;;;;;;CCS;CCS BAY 4
-;CCS;ECHO LAYLA 3G, Digital Recorder, PCI;;LOCL005;;;;;;;;;;;CCS;CCS BAY 5
-;CCS;ECHO LAYLA 3G, Digital Recorder, PCI;;LOCL006;;;;;;;;;;;CCS;CCS BAY 6
 ;CCS;Electrical Rack;;718998;;;;;;;;;;;CCS;CCS IOS
 ;CCS;Electrical Rack;;719010;;;;;;;;;;;CCS;CCS Bay 5
 ;CCS;Electrical Rack;;719016;;;;;;;;;;;CCS;CCS Bay 3
@@ -285,10 +271,6 @@
 ;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00588;;;;;;;;;;;CCS;CCS Bay 2 #3
 ;CCS;Gun Case 4U Rack Mount [BB0040-0000-110];;CCSBB00040-0010;BB0040-0000-110;;;;;;;;;;CCS;Bay 4
 ;CCS;Lexmark Printer;;94289K6;;;;;;;;;;;CCS;CCS Main Office
-;CCS;Lockheed Martin Dock Sincgar dual;;009;;;;;;;;;;;CCS;CCS BAY 5
-;CCS;Lockheed Martin Dock Sincgar dual;;016;;;;;;;;;;;CCS;CCS BAY 3
-;CCS;Lockheed Martin Dock Sincgar dual;;018;;;;;;;;;;;CCS;CCS BAY 4
-;CCS;Lockheed Martin Dock Sincgar dual;;020;;;;;;;;;;;CCS;CCS BAY 6
 ;CCS;NETGEAR 16 port switch;;1232565H0001D;;;;;;;;;;;CCS;CCS IOS
 ;CCS;NETGEAR 16 port switch;;1LI1865N00784;;;;;;;;;;;CCS;CCS Bay 6
 ;CCS;NETGEAR 16 port switch;;2221955C0023C;;;;;;;;;;;CCS;CCS Bay 6
@@ -317,20 +299,14 @@
 ;CCS;PYL PRO PYX-3X;;700491;;;;;;;;;;;CCS;CCS Bay 2
 ;CCS;PYL PRO PYX-3X;;700492;;;;;;;;;;;CCS;CCS Bay 5
 ;CCS;PYL PRO PYX-3X;;700581;;;;;;;;;;;CCS;CCS Bay 3
-;CCS;Samsung 22 Monitor 225BW;;"DP22HVMPC01144V;;;;;;;;;;;CCS;CCS IOS CCTV
-;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00168L;;;;;;;;;;;CCS;CCS IOS AAR IG1
-;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00173E;;;;;;;;;;;CCS;CCS IOS AAR IG2
-;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00174F;;;;;;;;;;;CCS;CCS IOS SIMI 2ND
-;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00176H;;;;;;;;;;;CCS;CCS IOS SIMI MAIN
-;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00261X;;;;;;;;;;;CCS;CCS IOS AAR IG3
-;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00262N;;;;;;;;;;;CCS;CCS IOS EXCON MAIN
-;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00263E;;;;;;;;;;;CCS;CCS IOS EXCON 2ND
-;CCS;Trainer Assembly-HMMWV [16331ASSY6404130G1];;013;16331ASSY6404130G1;;;;;;;;;;CCS;CCS BAY 3
-;CCS;Trainer Assembly-HMMWV [16331ASSY6404130G1];;014;16331ASSY6404130G1;;;;;;;;;;CCS;CCS BAY 4
-;CCS;Trainer Assembly-HMMWV [16331ASSY6404130G1];;015;16331ASSY6404130G1;;;;;;;;;;CCS;CCS BAY 5
-;CCS;Trainer Assembly-HMMWV [16331ASSY6404130G1];;016;16331ASSY6404130G1;;;;;;;;;;CCS;CCS BAY 6
-;CCS;Trainer Assembly-MTVR [16331ASSY6404014G1];;007;16331ASSY6404014G1;;;;;;;;;;CCS;BAY 1
-;CCS;Trainer Assembly-MTVR [16331ASSY6404014G1];;008;16331ASSY6404014G1;;;;;;;;;;CCS;BAY 2
+;CCS;Samsung 22 Monitor 225BW;;DP22HVMPC01144V;;;;;;;;;;;CCS;CCS IOS CCTV
+;CCS;Samsung 22 Monitor 225BW;;DP22HVNPC00168L;;;;;;;;;;;CCS;CCS IOS AAR IG1
+;CCS;Samsung 22 Monitor 225BW;;DP22HVNPC00173E;;;;;;;;;;;CCS;CCS IOS AAR IG2
+;CCS;Samsung 22 Monitor 225BW;;DP22HVNPC00174F;;;;;;;;;;;CCS;CCS IOS SIMI 2ND
+;CCS;Samsung 22 Monitor 225BW;;DP22HVNPC00176H;;;;;;;;;;;CCS;CCS IOS SIMI MAIN
+;CCS;Samsung 22 Monitor 225BW;;DP22HVNPC00261X;;;;;;;;;;;CCS;CCS IOS AAR IG3
+;CCS;Samsung 22 Monitor 225BW;;DP22HVNPC00262N;;;;;;;;;;;CCS;CCS IOS EXCON MAIN
+;CCS;Samsung 22 Monitor 225BW;;DP22HVNPC00263E;;;;;;;;;;;CCS;CCS IOS EXCON 2ND
 ;CCS;UPS (Uninterruptible Power Supply) EATON;;BM343FBB10;;;;;;;;;;;CCS;IOS
 ;CCS;UPS (Uninterruptible Power Supply) EATON;;BM343FBB11;;;;;;;;;;;CCS;Bay 3
 ;CCS;UPS (Uninterruptible Power Supply) EATON;;BM422FBB06;;;;;;;;;;;CCS;CCS Bay 2
@@ -412,10 +388,8 @@
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000568;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000704;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000721;1024520;;;;;;;;;;CCS;Bay 5
-;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000757;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000873;1024520;;;;;;;;;;CCS;Bay 4
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000942;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
-;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000961;1024520;;;;;;;;;;CCS;Bay 3
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001034;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001048;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001061;1024520;;;;;;;;;;CCS;Bay 6
@@ -428,7 +402,6 @@
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S003711;1024520;;;;;;;;;;CCS;Bay 1
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004124;1024520;;;;;;;;;;CCS;Bay 6
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004205;1024520;;;;;;;;;;CCS;Bay 2
-;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004259;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004323;1024520;;;;;;;;;;CCS;Bay 3
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005115;1024520;;;;;;;;;;CCS;Bay 6
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005160;1024520;;;;;;;;;;CCS;Bay 3
@@ -561,7 +534,6 @@
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008551;1024520;;;;;;;;;;CCS;Bay 2
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008605;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008609;1024520;;;;;;;;;;CCS;Bay 6
-;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S011185;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S012605;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S012626;1024520;;;;;;;;;;CCS;Bay 5
 ;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S012646;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1

@@ -21,8 +21,8 @@ public class ExcelFilter{
 	public ExcelFilter(){
 
 		try{
-			Scanner input = new Scanner(new File("C:\\Users\\user\\Desktop\\CodeHelp\\Work\\cmd.csv"));
-			//ears = new ArrayList<EAR>();
+			Scanner input = new Scanner(new File("C:\\Users\\user\\Desktop\\CodeHelp\\Work\\Asset.csv"));
+			ears = new ArrayList<EAR>();
 			puuloa = new ArrayList<EAR>();
 			usmc = new ArrayList<EAR>();
 			aav = new ArrayList<EAR>();
@@ -44,6 +44,7 @@ public class ExcelFilter{
 						if(ear.getLocation() == "1045") usmc.add(ear);
 						if(ear.getLocation() == "243") ismt.add(ear);
 						if(ear.getLocation() == "AAV") aav.add(ear);
+						ears.add(ear);
 					} 
 				}
 			}
@@ -88,6 +89,12 @@ public class ExcelFilter{
 
 			output = new PrintWriter("C:\\Users\\user\\Desktop\\CodeHelp\\Work\\243.csv");
 			for(EAR ear : ismt){
+				output.println(ear.toString());
+			}
+			output.close();
+
+			output = new PrintWriter("C:\\Users\\user\\Desktop\\CodeHelp\\Work\\EAR.csv");
+			for(EAR ear : ears){
 				output.println(ear.toString());
 			}
 			output.close();

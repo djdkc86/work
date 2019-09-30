@@ -1,18 +1,18 @@
 ;AAV-TT;3D Mouse (10-00142);;0014A;10-00142;;;;;;;;;;AAV;BLDG 243
 ;AAV-TT;40mm Ammo Cage Assembly (10-00274);;0014A;10-00274;;;;;;;;;;AAV;Bldg 243
 ;AAV-TT;40mm Mock Ammo (10-00282);;;10-00282;;;;;;;;;;AAV;Bldg 243
-;AAV-TT;47 HD Display (10-00224);;"0014A;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Left
-;AAV-TT;47 HD Display (10-00224);;"0014B;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Center
-;AAV-TT;47 HD Display (10-00224);;"0014C;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Left Center
-;AAV-TT;47 HD Display (10-00224);;"0014D;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Right Center
-;AAV-TT;47 HD Display (10-00224);;"0014E;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Right
+;AAV-TT;47 HD Display (10-00224);;0014A;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Left
+;AAV-TT;47 HD Display (10-00224);;0014B;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Center
+;AAV-TT;47 HD Display (10-00224);;0014C;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Left Center
+;AAV-TT;47 HD Display (10-00224);;0014D;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Right Center
+;AAV-TT;47 HD Display (10-00224);;0014E;10-00224;;;;;;;;;;AAV;Bldg 243 Driver Right
 ;AAV-TT;50 Cal Mock Ammo (10-00281);;;10-00281;;;;;;;;;;AAV;Bldg 243
 ;AAV-TT;50 Cal Spent Ammo Box (10-00612);;0014A;10-00612;;;;;;;;;;AAV;Bldg 243 (Gunner)
-;AAV-TT;55 HD Display (10-00262);;"0014A;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Right)
-;AAV-TT;55 HD Display (10-00262);;"0014B;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Right Center)
-;AAV-TT;55 HD Display (10-00262);;"0014C;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Left)
-;AAV-TT;55 HD Display (10-00262);;"0014D;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Left Center)
-;AAV-TT;55 HD Display (10-00262);;"0014E;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Center)
+;AAV-TT;55 HD Display (10-00262);;0014A;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Right)
+;AAV-TT;55 HD Display (10-00262);;0014B;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Right Center)
+;AAV-TT;55 HD Display (10-00262);;0014C;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Left)
+;AAV-TT;55 HD Display (10-00262);;0014D;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Left Center)
+;AAV-TT;55 HD Display (10-00262);;0014E;10-00262;;;;;;;;;;AAV;Bldg 243 (Gunner Center)
 ;AAV-TT;AAR Computer [10-00675];;0008A;10-00675;;;;;;;;;;AAV;Bldg 243
 ;AAV-TT;AAV Trainer Turret Driver's Station (10-00221);;4414;10-00221;;;;;;;;;;AAV;Bldg 243 (Driver)
 ;AAV-TT;AAV Trainer Turret Gunner's Station (10-00259);;4514;10-00259;;;;;;;;;;AAV;Bldg 243 (Gunner)
@@ -76,7 +76,6 @@
 ;AAV-TT;Fan Assembly, Driver (10-00254);;0014A;10-00254;;;;;;;;;;AAV;Bldg 243 (Driver)
 ;AAV-TT;Fire Extinguisher (10-00251);;0014A;10-00251;;;;;;;;;;AAV;Bldg 243 (Driver)
 ;AAV-TT;Foot Switch (10-00146);;71189;10-00146;;;;;;;;;;AAV;Bldg 243
-;AAV-TT;GE Dehumidifer;;RF01097;;;;;;;;;;;AAV;Bldg 243
 ;AAV-TT;Hand Optics Storage Box (10-00255);;0014A;10-00255;;;;;;;;;;AAV;Bldg 243 (Driver)
 ;AAV-TT;Hand Optics Storage Box (10-00255);;0014B;10-00255;;;;;;;;;;AAV;Bldg 243 (Gunner)
 ;AAV-TT;Hand Optics Storage Box (Blue) (10-00610);;0014A;Blue;;;;;;;;;;AAV;Bldg 243 Driver
@@ -89,16 +88,15 @@
 ;AAV-TT;I/O Distribution Box, Driver (10-00225);;0014A;10-00225;;;;;;;;;;AAV;Bldg 243 (Driver)
 ;AAV-TT;I/O Distribution Box, Turret (10-00263);;0014A;10-00263;;;;;;;;;;AAV;Bldg 243
 ;AAV-TT;Keyboard and Mouse Set (10-00295);;0014A;10-00295;;;;;;;;;;AAV;Bldg 243
-;AAV-TT;LCD Monitor, 19 1280x1024 VGA (P190St);;"CN-0D307J-74445-96P-CGML;P190St;;;;;;;;;;AAV;Bldg 243
-;AAV-TT;LCD Monitor, 19 1280x1024 VGA (P190St);;"CN-0T6116-71618-59O-ABUA;P190St;;;;;;;;;;AAV;Bldg 243
-;AAV-TT;LCD Monitor, 19 1280x1024 VGA (P190St);;"ETLBZ08168231106514207;P190St;;;;;;;;;;AAV;Bldg 243
-;AAV-TT;LCD Monitor, 19 1280x1024 VGA (P190St);;"MMLY6AA0043350DA8D8511;P190St;;;;;;;;;;AAV;Bldg 243
+;AAV-TT;LCD Monitor, 19 1280x1024 VGA (P190St);;CN-0D307J-74445-96P-CGML;P190St;;;;;;;;;;AAV;Bldg 243
+;AAV-TT;LCD Monitor, 19 1280x1024 VGA (P190St);;CN-0T6116-71618-59O-ABUA;P190St;;;;;;;;;;AAV;Bldg 243
+;AAV-TT;LCD Monitor, 19 1280x1024 VGA (P190St);;ETLBZ08168231106514207;P190St;;;;;;;;;;AAV;Bldg 243
+;AAV-TT;LCD Monitor, 19 1280x1024 VGA (P190St);;MMLY6AA0043350DA8D8511;P190St;;;;;;;;;;AAV;Bldg 243
 ;AAV-TT;M2 Replica Weapon (10-00285);;1877492;10-00285;;;;;;;;;;AAV;Bldg 243 (Gunner)
 ;AAV-TT;Memory Range Drum, Range Indicator (10-00614);;0014A;10-00614;;;;;;;;;;AAV;Bldg 243
 ;AAV-TT;Microphone Stand (10-00619);;;10-00619;;;;;;;;;;AAV;Bldg 243
 ;AAV-TT;Mk19 Ammo Feed (10-00289);;0014A;10-00289;;;;;;;;;;AAV;Bldg 243 (Gunner)
 ;AAV-TT;MK19 Replica Weapon (10-00288);;639;10-00288;;;;;;;;;;AAV;Bldg 243
-;AAV-TT;Model UH70832;;73502037317;;;;;;;;;;;AAV;Bldg 243 (Vacuum)
 ;AAV-TT;Network Switch (10-00594);;FOC1647W2C6;10-00594;;;;;;;;;;AAV;Bldg 243 (IOS)
 ;AAV-TT;NVG/Binoculars, Interface Box (10-00608);;0014A;10-00608;;;;;;;;;;AAV;Bldg 243 (Driver)
 ;AAV-TT;Parking Brake Assembly (10-00229);;0014A;10-00229;;;;;;;;;;AAV;Bldg 243 (Driver)

@@ -4,10 +4,10 @@
 ;ISMT-III;(USMC) JBL Audio Speaker [8216A];;34782;8216A;;;;;;;;;;Puuloa;Puuloa (Right)
 ;ISMT-III;(USMC) JBL Audio Speaker [8216A];;38855;8216A;;;;;;;;;;Puuloa;Puuloa (Left)
 ;ISMT-III;(USMC) KVM (Keyboard, Video, Mouse switch) pullout drawer, rack mount (SMK420-D17);;ASI06J0206;SMK420-D17;;;;;;;;;;Puuloa;Puuloa
-;ISMT-III;(USMC) M4 Rifle BlueFire [1024534-04];;BFI475476;1024534-04;;;;;;;;;;Puuloa;Puuloa w/RCO 932252
-;ISMT-III;(USMC) M4 Rifle BlueFire [1024534-04];;BFI475562;1024534-04;;;;;;;;;;Puuloa;Puuloa RCO 932259 w/Vickers sling
-;ISMT-III;(USMC) M4 Rifle BlueFire [1024534-04];;BFI475870;1024534-04;;;;;;;;;;Puuloa;Puuloa w/Vickers sling RCO 932306
-;ISMT-III;(USMC) M4 Rifle BlueFire [1024534-04];;BFI655642;1024534-04;;;;;;;;;;Puuloa;Puuloa  RCO 932074 w/Vickers sling
+;ISMT-III;(USMC) M4 Rifle BlueFire [1024534-04];;*BFI475476;1024534-04;;;;;;;;;;Puuloa;Puuloa w/RCO 932252 (old Ckt Board)
+;ISMT-III;(USMC) M4 Rifle BlueFire [1024534-04];;*BFI475562;1024534-04;;;;;;;;;;Puuloa;Puuloa RCO 932259 w/Vickers sling (old Ckt Board)
+;ISMT-III;(USMC) M4 Rifle BlueFire [1024534-04];;*BFI475870;1024534-04;;;;;;;;;;Puuloa;Puuloa w/Vickers sling RCO 932306 (old Ckt Board)
+;ISMT-III;(USMC) M4 Rifle BlueFire [1024534-04];;*BFI655642;1024534-04;;;;;;;;;;Puuloa;Puuloa  RCO 932074 w/Vickers sling (old Ckt Board)
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000551;1024520;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001102;1024520;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001504;1024520;;;;;;;;;;Puuloa;Puuloa
@@ -16,7 +16,6 @@
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S003933;1024520;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S003961;1024520;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004555;1024520;;;;;;;;;;Puuloa;Puuloa
-;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005050;1024520;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005514;1024520;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006847;1024520;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008603;1024520;;;;;;;;;;Puuloa;Puuloa
@@ -47,10 +46,10 @@
 ;ISMT-III;(USMC) Projector, Mitsubishi (XD205R);;6821231;XD205R;;;;;;;;;;Puuloa;6708C3 Bay 6 SPARE
 ;ISMT-III;(USMC) PSC/ICS Combo, New XP System, Black (1021044-28);;A086452;1021044-28;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) Rack Assembly for PSC/ICS Combo (8000240-15) (PLASTIC);;05061;8000240-15;;;;;;;;;;Puuloa;Puuloa
-;ISMT-III;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI468715;1024515-07;;;;;;;;;;Puuloa;Puuloa w/ RCO 932189
-;ISMT-III;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI504062;1024515-07;;;;;;;;;;Puuloa;Puuloa RCO 932108
-;ISMT-III;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI504072;1024515-07;;;;;;;;;;Puuloa;Puuloa
-;ISMT-III;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI504215;1024515-07;;;;;;;;;;Puuloa;Puuloa (RCO 932290) w/vickers sling
+;ISMT-III;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;*BFI468715;1024515-07;;;;;;;;;;Puuloa;Puuloa w/ RCO 932189 (old Ckt Board)
+;ISMT-III;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;*BFI504062;1024515-07;;;;;;;;;;Puuloa;Puuloa RCO 932108 (old Ckt Board)
+;ISMT-III;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;*BFI504072;1024515-07;;;;;;;;;;Puuloa;Puuloa (old Ckt Board)
+;ISMT-III;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;*BFI504215;1024515-07;;;;;;;;;;Puuloa;Puuloa RCO 932290 w/vickers sling (old Ckt Board)
 ;ISMT-III;(USMC) Trunk Line 2-position (1006210-01);;A020350;1006210-01;;;;;;;;;;Puuloa;Puuloa
 ;ISMT-III;(USMC) UPS (Uninterruptible Power Supply) APC ;;2236BY0BC819400398;;;;;;;;;;;Puuloa;PUULOA
-;ISMT-III;(USMC) Weapon Rack, White 45 (UWRC4245);;"ISMTWHT45WPN001;UWRC4245;;;;;;;;;;Puuloa;Puuloa
+;ISMT-III;(USMC) Weapon Rack, White 45 (UWRC4245);;ISMTWHT45WPN001;UWRC4245;;;;;;;;;;Puuloa;Puuloa
