@@ -1,0 +1,685 @@
+;CCS;10' A Frame Ladder;;;;;;;;;;;;;CCS;Bay 1
+;CCS;12' A Frame Ladder;;;;;;;;;;;;;CCS;Bay 2
+;CCS;22 SAMSUNG 226BW;;"ME22H9LPC02888Y;;;;;;;;;;;CCS;CCS IOS SIMI IG
+;CCS;24' Ladder;;CCSLM;;;;;;;;;;;CCS;Bay 5
+;CCS;4' Ladder;;;;;;;;;;;;;CCS;Bay 3
+;CCS;4' Ladder;;;;;;;;;;;;;CCS;Bay 3
+;CCS;6' Werner Ladder;;;;;;;;;;;;;CCS;Bay 3
+;CCS;AAR Station [16331ASSY6403364G1];;LOC001;16331ASSY6403364G1;;;;;;;;;;CCS;CCS IOS
+;CCS;Air Dryer;;2608366-11C;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;AMPLIFIER, VIDEO DISTRIBUTUION, EXTRON [60-246-03];;LOC010;60-246-03;;;;;;;;;;CCS;CCS IOS
+;CCS;AMPLIFIER, VIDEO DISTRIBUTUION, EXTRON [60-246-03];;LOC011;60-246-03;;;;;;;;;;CCS;CCS IOS
+;CCS;AMPLIFIER, VIDEO DISTRIBUTUION, EXTRON [60-246-03];;LOC012;60-246-03;;;;;;;;;;CCS;CCS IOS
+;CCS;Battery charger/conditioner;;83969;;;;;;;;;;;CCS;CCS Back Room
+;CCS;BFT Keyboard;;112717038336;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;BFT Keyboard;;BAK042808017677;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;BFT Keyboard;;BAK042808017680;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;BFT Keyboard;;BAK042808017682;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS 16 port KVM Switch;;9351AZB0220160035;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS 16 port KVM Switch;;9419AZB02201600106;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS 16 port KVM Switch;;9622ACPCB600400268;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS 16 port KVM Switch;;9622ACPCB600400277;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS 16 port KVM Switch;;9707ACPCB3600400047;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS 16 port KVM Switch;;9707ACPCB600400127;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS 16 port KVM Switch;;9707ACPCB600400392;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS AAR VGA/Audio Switch;;A02U4EY;;;;;;;;;;;CCS;CCS BAY 3
+;CCS;CCS AAR VGA/Audio Switch;;A02U4EZ;;;;;;;;;;;CCS;CCS BAY 3
+;CCS;CCS AAR VGA/Audio Switch;;A02U4F4;;;;;;;;;;;CCS;CCS BAY 3
+;CCS;CCS AAR VGA/Audio Switch;;A04GVGV;;;;;;;;;;;CCS;CCS BAY 6
+;CCS;CCS AAR VGA/Audio Switch;;A04GVHL;;;;;;;;;;;CCS;CCS BAY 6
+;CCS;CCS AAR VGA/Audio Switch;;A04GVHS;;;;;;;;;;;CCS;CCS BAY 6
+;CCS;CCS AAR VGA/Audio Switch;;LOCA001;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS Audio Amp PS802;;0701A020;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS Audio Amp PS802;;0701A041;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS Audio Amp PS802;;0701A042;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS Audio Amp PS802;;0701A074;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS Audio Amp PS802;;0701A087;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS Audio Amp PS802;;0701A088;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS Audio Amp PS802;;0705A008;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS Audio Amp PS802;;0705A009;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS Audio Amp PS802;;0705A015;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Audio Amp PS802;;0705A016;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Audio Amp PS802;;0705A017;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Audio Amp PS802;;0705A018;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Audio Amp PS802;;0705A043;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS Audio Amp PS802;;0705A048;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS Audio Amp PS802;;0705A056;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS Audio Amp PS802;;0705A057;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS Audio Amp PS802;;0705A072;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS Audio Amp PS802;;0705A079;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS Audio Amp PS802;;0705A085;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS Audio Amp PS802;;0705A087;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS Audio Amp PS802;;0705A119;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS Audio Amp PS802;;0705A124;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS Audio Amp PS802;;0705A136;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS Audio Amp PS802;;0705A137;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS CCTV PC;;2812;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS CCTV PC;;2866;;;;;;;;;;;CCS;CCS Bay 6 SPARE
+;CCS;CCS CISCO Router;;FDO1207Y0UQ;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS Comms PC;;010127-01210804;;;;;;;;;;;CCS;CCS Bay 6 SPARE
+;CCS;CCS Comms PC;;LOCC003;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS Comms PC;;LOCC004;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS Comms PC;;LOCC005;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS Comms PC;;LOCC006;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Excon Computer;;AVA-3179796-10;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS FBCB2 Monitor RGB12LC;;136;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS FBCB2 Monitor RGB12LC;;143;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS FBCB2 Monitor RGB12LC;;144;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS FBCB2 Monitor RGB12LC;;150;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS FBCB2 Monitor RGB12LC;;152;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Forcegen computer;;AVA-323820;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS Gateway PC;;AVA-317979-1;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS Gateway PC;;AVA-3179791-4;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS Gateway PC;;AVA-3179792-2;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS Gateway PC;;AVA-3179793-4;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS Gateway PC;;AVA-3179793-5;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS Gateway PC;;AVA-3179795-1;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Gateway PC;;AVA-323120-12;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS Hit Camera;;A078521;;;;;;;;;;;CCS;CCS Bay 1 #5
+;CCS;CCS Hit Camera;;A078530;;;;;;;;;;;CCS;CCS Bay 4 #6
+;CCS;CCS Hit Camera;;A078547;;;;;;;;;;;CCS;CCS Bay 2 #4
+;CCS;CCS Hit Camera;;A078570;;;;;;;;;;;CCS;CCS Bay 2 #5
+;CCS;CCS Hit Camera;;A078571;;;;;;;;;;;CCS;CCS Bay 1 #3
+;CCS;CCS Hit Camera;;A078572;;;;;;;;;;;CCS;CCS Bay 3 #2
+;CCS;CCS Hit Camera;;A078573;;;;;;;;;;;CCS;CCS Bay 6 #4
+;CCS;CCS Hit Camera;;A078575;;;;;;;;;;;CCS;CCS Bay 3 #1
+;CCS;CCS Hit Camera;;A078577;;;;;;;;;;;CCS;CCS Bay 3 #4
+;CCS;CCS Hit Camera;;A078578;;;;;;;;;;;CCS;CCS Bay 2 #1
+;CCS;CCS Hit Camera;;A078579;;;;;;;;;;;CCS;Office
+;CCS;CCS Hit Camera;;A078580;;;;;;;;;;;CCS;CCS Bay 4 #2
+;CCS;CCS Hit Camera;;A078581;;;;;;;;;;;CCS;CCS Bay 1 #1
+;CCS;CCS Hit Camera;;A078582;;;;;;;;;;;CCS;CCS Bay 6 #2
+;CCS;CCS Hit Camera;;A078583;;;;;;;;;;;CCS;CCS Bay 3 #5
+;CCS;CCS Hit Camera;;A078584;;;;;;;;;;;CCS;CCS Bay 5 #5
+;CCS;CCS Hit Camera;;A078585;;;;;;;;;;;CCS;CCS Bay 5 #1
+;CCS;CCS Hit Camera;;A078587;;;;;;;;;;;CCS;CCS Bay 6 #1
+;CCS;CCS Hit Camera;;A078594;;;;;;;;;;;CCS;CCS Bay 6 #5
+;CCS;CCS Hit Camera;;A078600;;;;;;;;;;;CCS;CCS Bay 3 #6
+;CCS;CCS Hit Camera;;A078606;;;;;;;;;;;CCS;CCS Bay 2 #3
+;CCS;CCS Hit Camera;;A078607;;;;;;;;;;;CCS;CCS Bay 5 #6
+;CCS;CCS Hit Camera;;A078608;;;;;;;;;;;CCS;CCS Bay 5 #3
+;CCS;CCS Hit Camera;;A078611;;;;;;;;;;;CCS;CCS Bay 1 #6
+;CCS;CCS Hit Camera;;A078620;;;;;;;;;;;CCS;CCS Bay 2 #6
+;CCS;CCS Hit Camera;;A078628;;;;;;;;;;;CCS;CCS Bay 1 #4
+;CCS;CCS Hit Camera;;A078631;;;;;;;;;;;CCS;CCS Bay 4 #1
+;CCS;CCS Hit Camera;;A078633;;;;;;;;;;;CCS;CCS Bay 6 #3
+;CCS;CCS Hit Camera;;A078635;;;;;;;;;;;CCS;CCS Bay 4 #5
+;CCS;CCS Hit Camera;;A078636;;;;;;;;;;;CCS;CCS Bay 1 #2
+;CCS;CCS Hit Camera;;A078656;;;;;;;;;;;CCS;CCS Bay 5 #4
+;CCS;CCS Hit Camera;;A078660;;;;;;;;;;;CCS;CCS Bay 6 #6
+;CCS;CCS Hit Camera;;A078661;;;;;;;;;;;CCS;CCS Bay 4 #3
+;CCS;CCS Hit Camera;;A078662;;;;;;;;;;;CCS;CCS Bay 5 #2
+;CCS;CCS Hit Camera;;A078663;;;;;;;;;;;CCS;CCS Bay 3 #3
+;CCS;CCS Hit Camera;;A078664;;;;;;;;;;;CCS;CCS Bay 2 #2
+;CCS;CCS Hit Camera;;A078696;;;;;;;;;;;CCS;CCS Bay 4 #4
+;CCS;CCS Host;;AVA-323120-9;;;;;;;;;;;CCS;CCS Bay 6 SPARE
+;CCS;CCS IED Jammer Controller - PDA;;DS73A40188;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS IED Jammer Controller - PDA;;DS73A40189;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS IED Jammer Controller - PDA;;DS73A40190;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS IED Jammer Controller - PDA;;DS73A40191;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS IED Jammer Controller - PDA;;DS73A40192;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS IED Jammer Controller - PDA;;DS73A40193;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS Image Generator;;AVA-315427-1;;;;;;;;;;;CCS;CCS Bay 1 IG8
+;CCS;CCS Image Generator;;AVA-315427-6;;;;;;;;;;;CCS;CCS Bay 3 IG8
+;CCS;CCS Image Generator;;AVA-315427-8;;;;;;;;;;;CCS;IOS IG2
+;CCS;CCS Image Generator;;AVA-315881-2;;;;;;;;;;;CCS;CCS IOS FORCEGEN
+;CCS;CCS Image Generator;;AVA-315881-23;;;;;;;;;;;CCS;CCS IOS IG1
+;CCS;CCS Image Generator;;AVA-315881-3;;;;;;;;;;;CCS;CCS Bay 2 IG6
+;CCS;CCS Image Generator;;AVA-315881-6;;;;;;;;;;;CCS;CCS IOS IG3
+;CCS;CCS Image Generator;;AVA-315881-9;;;;;;;;;;;CCS;CCS Bay 2 IG7
+;CCS;CCS Image Generator;;AVA-3179831-10;;;;;;;;;;;CCS;CCS Bay 5 IG1
+;CCS;CCS Image Generator;;AVA-3179831-13;;;;;;;;;;;CCS;CCS Bay 4 IG2
+;CCS;CCS Image Generator;;AVA-3179831-19;;;;;;;;;;;CCS;CCS Bay 1 IG5
+;CCS;CCS Image Generator;;AVA-3179831-29;;;;;;;;;;;CCS;CCS Bay 3 IG1
+;CCS;CCS Image Generator;;AVA-3179831-4;;;;;;;;;;;CCS;CCS Bay 3 IG5
+;CCS;CCS Image Generator;;AVA-3179831-45;;;;;;;;;;;CCS;CCS Bay 3 IG2
+;CCS;CCS Image Generator;;AVA-3179831-5;;;;;;;;;;;CCS;CCS Bay 6 IG2
+;CCS;CCS Image Generator;;AVA-3179832-28;;;;;;;;;;;CCS;CCS Bay 4 IG3
+;CCS;CCS Image Generator;;AVA-3179832-34;;;;;;;;;;;CCS;CCS Bay 4 IG8
+;CCS;CCS Image Generator;;AVA-3179832-49;;;;;;;;;;;CCS;CCS Bay 6 IG8
+;CCS;CCS Image Generator;;AVA-3179833-13;;;;;;;;;;;CCS;CCS SPARE Bay 6
+;CCS;CCS Image Generator;;AVA-3179833-16;;;;;;;;;;;CCS;CCS Bay 6 IG4
+;CCS;CCS Image Generator;;AVA-3179833-36;;;;;;;;;;;CCS;CCS Bay 4 IG4
+;CCS;CCS Image Generator;;AVA-3179833-49;;;;;;;;;;;CCS;CCS Bay 3 IG6
+;CCS;CCS Image Generator;;AVA-3179834-10;;;;;;;;;;;CCS;CCS Bay 1 IG1
+;CCS;CCS Image Generator;;AVA-3179834-12;;;;;;;;;;;CCS;CCS Bay 1 IG2
+;CCS;CCS Image Generator;;AVA-3179834-15;;;;;;;;;;;CCS;CCS Bay 4 IG7
+;CCS;CCS Image Generator;;AVA-3179834-18;;;;;;;;;;;CCS;CCS Bay 5 IG5
+;CCS;CCS Image Generator;;AVA-3179834-2;;;;;;;;;;;CCS;CCS Bay 6 SPARE
+;CCS;CCS Image Generator;;AVA-3179834-22;;;;;;;;;;;CCS;CCS Bay 3 IG3
+;CCS;CCS Image Generator;;AVA-3179834-27;;;;;;;;;;;CCS;CCS Bay 5 IG4
+;CCS;CCS Image Generator;;AVA-3179834-29;;;;;;;;;;;CCS;CCS Bay 5 IG2
+;CCS;CCS Image Generator;;AVA-3179834-30;;;;;;;;;;;CCS;CCS Bay 2 IG5
+;CCS;CCS Image Generator;;AVA-3179834-35;;;;;;;;;;;CCS;CCS Bay 6 IG1
+;CCS;CCS Image Generator;;AVA-3179834-42;;;;;;;;;;;CCS;CCS Bay 2 IG8
+;CCS;CCS Image Generator;;AVA-3179834-5;;;;;;;;;;;CCS;CCS Bay 4 IG5
+;CCS;CCS Image Generator;;AVA-3179834-7;;;;;;;;;;;CCS;CCS Bay 6 IG6
+;CCS;CCS Image Generator;;AVA-3179834-9;;;;;;;;;;;CCS;CCS Bay 6 IG3
+;CCS;CCS Image Generator;;AVA-3179835-10;;;;;;;;;;;CCS;CCS Bay 1 IG7
+;CCS;CCS Image Generator;;AVA-3179835-13;;;;;;;;;;;CCS;CCS Bay 5 IG6
+;CCS;CCS Image Generator;;AVA-3179835-18;;;;;;;;;;;CCS;Bay 6 SPARE
+;CCS;CCS Image Generator;;AVA-3179835-23;;;;;;;;;;;CCS;CCS Bay 4 IG6
+;CCS;CCS Image Generator;;AVA-3179835-24;;;;;;;;;;;CCS;CCS Bay 5 IG7
+;CCS;CCS Image Generator;;AVA-3179835-38;;;;;;;;;;;CCS;CCS Bay 2 IG4
+;CCS;CCS Image Generator;;AVA-3179835-39;;;;;;;;;;;CCS;CCS Bay 5 IG8
+;CCS;CCS Image Generator;;AVA-3179835-5;;;;;;;;;;;CCS;CCS Bay 6 IG5
+;CCS;CCS Image Generator;;AVA-3179835-9;;;;;;;;;;;CCS;CCS Bay 1 IG4
+;CCS;CCS Image Generator;;AVA-3179836-26;;;;;;;;;;;CCS;CCS Bay 1 IG3
+;CCS;CCS Image Generator;;AVA-3179836-32;;;;;;;;;;;CCS;CCS Bay 2 IG1
+;CCS;CCS Image Generator;;AVA-3179836-47;;;;;;;;;;;CCS;CCS Bay 5 IG3
+;CCS;CCS Image Generator;;AVA-3179836-49;;;;;;;;;;;CCS;CCS Bay 2 IG3
+;CCS;CCS Image Generator;;AVA-3199834-42;;;;;;;;;;;CCS;CCS Bay 2 IG8
+;CCS;CCS Image Generator;;AVA-320252-14;;;;;;;;;;;CCS;CCS Bay 3 IG4
+;CCS;CCS Image Generator;;AVA-320252-16;;;;;;;;;;;CCS;CCS Bay 2 IG2
+;CCS;CCS Image Generator;;AVA-320252-18;;;;;;;;;;;CCS;CCS Bay 4 IG1
+;CCS;CCS Image Generator;;AVA-320252-2;;;;;;;;;;;CCS;CCS Bay 1 IG6
+;CCS;CCS Image Generator;;AVA-320252-3;;;;;;;;;;;CCS;CCS Bay 6 SPARE
+;CCS;CCS Image Generator;;AVA-320252-4;;;;;;;;;;;CCS;CCS Bay 1 IG2
+;CCS;CCS Image Generator;;AVA-320252-7;;;;;;;;;;;CCS;CCS Bay 6 IG7
+;CCS;CCS Image Generator;;AVA-320252-8;;;;;;;;;;;CCS;CCS Bay 3 IG7
+;CCS;CCS Image Generator;;LOC0004;;;;;;;;;;;CCS;CCS Bay 6 SPARE
+;CCS;CCS Instructor Work Station;;AVA-3179813-2;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Instructor Work Station;;AVA-3179813-4;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS Instructor Work Station;;AVA-3179813-6;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS Instructor Work Station;;AVA-3179813-8;;;;;;;;;;;CCS;CCS IOS AAR
+;CCS;CCS Instructor Work Station;;AVA-3179815-1;;;;;;;;;;;CCS;Bay 3 ISW
+;CCS;CCS Instructor Work Station;;AVA-3179815-2;;;;;;;;;;;CCS;CCS SPARE
+;CCS;CCS Instructor Work Station;;AVA-3179816-3;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS Instructor Work Station;;AVA-3179816-4;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS KVM Rackmount;;9643AY0CB691700157;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS KVM Rackmount;;9643AY0CB691700179;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS KVM Rackmount;;9643AY0CB691700192;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS KVM Rackmount;;9643AY0CB691700193;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS KVM Rackmount;;9643AY0CB691700195;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS KVM Rackmount;;9714AY0CB707500038;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS KVM Rackmount;;9714AY0CB707500098;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;(CCS) M2 .50 cal [1009291-53];;1051825;1009291-53;;;;;;;;;;CCS;CCS Bay 4 Mounted
+;CCS;(CCS) M2 .50 cal [1009291-53];;1495409;1009291-53;;;;;;;;;;CCS;CCS Bay 2 Spare
+;CCS;(CCS) M2 .50 cal [1009291-53];;2209598;1009291-53;;;;;;;;;;CCS;CCS Bay 4 SPARE
+;CCS;(CCS) M2 .50 cal [1009291-53];;468079;1009291-53;;;;;;;;;;CCS;CCS Bay 6 Mounted
+;CCS;(CCS) M2 .50 cal [1009291-53];;526247;1009291-53;;;;;;;;;;CCS;CCS Bay 1 Mounted
+;CCS;(CCS) M2 .50 cal [1009291-53];;603369;1009291-53;;;;;;;;;;CCS;CCS Bay 1 SPARE
+;CCS;(CCS) M2 .50 cal [1009291-53];;603370;1009291-53;;;;;;;;;;CCS;CCS Bay 6 Locker Spare
+;CCS;(CCS) M2 .50 cal [1009291-53];;603381;1009291-53;;;;;;;;;;CCS;CCS Bay 2 Mounted
+;CCS;CCS Server;;LOC0002;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS SIMI;;AVA-3179791-3;;;;;;;;;;;CCS;CCS IOS
+;CCS;CCS Subwoofer;;3276116003330;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS Subwoofer;;3276116003418;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS Subwoofer;;3276116003452;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS Subwoofer;;3276116003456;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Subwoofer;;3276116003613;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS Subwoofer;;3276116003616;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS TUD;;03538860;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS TUD;;03538893;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS TUD;;03538894;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS TUD;;03538916;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS TUD;;03542491;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;CCS TUD;;03542493;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Weapons PC;;A086715;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;CCS Weapons PC;;A086721;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Weapons PC;;A086763;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;CCS Weapons PC;;A086769;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;CCS Weapons PC;;A086866;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;CCS Weapons PC;;A086870;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;CCS Weapons PC;;A086875;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;ECHO LAYLA 3G, Digital Recorder, PCI;;LOCL003;;;;;;;;;;;CCS;CCS BAY 3
+;CCS;ECHO LAYLA 3G, Digital Recorder, PCI;;LOCL004;;;;;;;;;;;CCS;CCS BAY 4
+;CCS;ECHO LAYLA 3G, Digital Recorder, PCI;;LOCL005;;;;;;;;;;;CCS;CCS BAY 5
+;CCS;ECHO LAYLA 3G, Digital Recorder, PCI;;LOCL006;;;;;;;;;;;CCS;CCS BAY 6
+;CCS;Electrical Rack;;718998;;;;;;;;;;;CCS;CCS IOS
+;CCS;Electrical Rack;;719010;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;Electrical Rack;;719016;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;Electrical Rack;;719025;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;Electrical Rack;;719027;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;Electrical Rack;;719513;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;Electrical Rack;;719949;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;Electronic Duster, Datavac;;;;;;;;;;;;;CCS;Bench Cabnet
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W443UAGCY00035;;;;;;;;;;;CCS;CCS Bay 5 #2
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W443UAGCY00038;;;;;;;;;;;CCS;CCS Bay 1 #4
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W443UAGCY00041;;;;;;;;;;;CCS;CCS Bay 5 #7
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W443UAGCY00048;;;;;;;;;;;CCS;CCS Bay 3 #4
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00071;;;;;;;;;;;CCS;CCS Bay 4 #1
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00073;;;;;;;;;;;CCS;CCS Bay 5 #5
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00077;;;;;;;;;;;CCS;CCS Bay 2 #8
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00079;;;;;;;;;;;CCS;CCS Bay 5 #1
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00109;;;;;;;;;;;CCS;CCS Bay 4 #5
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00118;;;;;;;;;;;CCS;CCS Bay 4 #8
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00119;;;;;;;;;;;CCS;CCS Bay 2 #7
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00124;;;;;;;;;;;CCS;CCS Bay 2 #6
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00125;;;;;;;;;;;CCS;CCS Bay 4 #2
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00151;;;;;;;;;;;CCS;CCS Bay 1 #7
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00153;;;;;;;;;;;CCS;CCS Bay 3 #1
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00156;;;;;;;;;;;CCS;CCS Bay 1 #6
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00158;;;;;;;;;;;CCS;CCS Bay 6 #8
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00161;;;;;;;;;;;CCS;CCS Bay 1 #8
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00164;;;;;;;;;;;CCS;CCS Bay 2 #5
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00168;;;;;;;;;;;CCS;CCS Bay 6 #5
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00169;;;;;;;;;;;CCS;CCS Bay 4 #7
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00172;;;;;;;;;;;CCS;CCS Bay 5 #3
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00188;;;;;;;;;;;CCS;CCS Bay 2 #2
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00191;;;;;;;;;;;CCS;CCS Bay 5 #4
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00192;;;;;;;;;;;CCS;CCS Bay 6 #1
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00193;;;;;;;;;;;CCS;CCS Bay 3 #7
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00202;;;;;;;;;;;CCS;CCS Bay 4 #3
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00209;;;;;;;;;;;CCS;CCS Bay 6 #6
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W444UAGCY00213;;;;;;;;;;;CCS;CCS Bay 2 #4
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00231;;;;;;;;;;;CCS;CCS Bay 6 #3
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00244;;;;;;;;;;;CCS;CCS Bay 3 #5
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00292;;;;;;;;;;;CCS;CCS Bay 1 #3
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00312;;;;;;;;;;;CCS;CCS Bay 5 #6
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00385;;;;;;;;;;;CCS;CCS Bay 4 #4
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00390;;;;;;;;;;;CCS;CCS Bay 6 #2
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00433;;;;;;;;;;;CCS;CCS Bay 2 #1
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00466;;;;;;;;;;;CCS;CCS Bay 6 Spare
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00469;;;;;;;;;;;CCS;CCS Bay 6 #7
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00486;;;;;;;;;;;CCS;CCS Bay 5 #8
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00501;;;;;;;;;;;CCS;CCS Bay 1 #1
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00508;;;;;;;;;;;CCS;CCS Bay 4 #6
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00511;;;;;;;;;;;CCS;CCS Bay 3 #2
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00518;;;;;;;;;;;CCS;CCS Bay 1 #5
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00520;;;;;;;;;;;CCS;CCS Bay 1 #2
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00522;;;;;;;;;;;CCS;CCS Bay 3 #6
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00535;;;;;;;;;;;CCS;CCS Bay 6 #4
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00551;;;;;;;;;;;CCS;CCS Bay 3 #3
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00583;;;;;;;;;;;CCS;CCS Bay 3 #8
+;CCS;E-Vision WUXGA-4500 Digital Projection;;W445UAGCY00588;;;;;;;;;;;CCS;CCS Bay 2 #3
+;CCS;Gun Case 4U Rack Mount [BB0040-0000-110];;CCSBB00040-0010;BB0040-0000-110;;;;;;;;;;CCS;Bay 4
+;CCS;Lexmark Printer;;94289K6;;;;;;;;;;;CCS;CCS Main Office
+;CCS;Lockheed Martin Dock Sincgar dual;;009;;;;;;;;;;;CCS;CCS BAY 5
+;CCS;Lockheed Martin Dock Sincgar dual;;016;;;;;;;;;;;CCS;CCS BAY 3
+;CCS;Lockheed Martin Dock Sincgar dual;;018;;;;;;;;;;;CCS;CCS BAY 4
+;CCS;Lockheed Martin Dock Sincgar dual;;020;;;;;;;;;;;CCS;CCS BAY 6
+;CCS;NETGEAR 16 port switch;;1232565H0001D;;;;;;;;;;;CCS;CCS IOS
+;CCS;NETGEAR 16 port switch;;1LI1865N00784;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;NETGEAR 16 port switch;;2221955C0023C;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;NETGEAR 16 port switch;;22219A5W000DC;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;NETGEAR 16 port switch;;4CU17A5F000DE;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;NETGEAR 16 port switch;;4CU18A5M001E7;;;;;;;;;;;CCS;Back Room SPARE
+;CCS;NETGEAR 16 port switch;;GST2148DB035549;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;NETGEAR 16 port switch;;GST2148DB035550;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;NETGEAR 16 port switch;;GST2148DB035551;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;NETGEAR 16 port switch;;GST2155DB040878;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;NETGEAR 16 port switch;;GST2155DB040880;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;NETGEAR 16 port switch;;GST2155DB040881;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;NETGEAR 16 port switch;;ILJ1865N00784;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;NETGEAR 16 port switch;;ILU1745S00656;;;;;;;;;;;CCS;BAD Needs DRMO
+;CCS;Power Distribution, AC PULIZZI;;148702-0802037458;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;Power Distribution, AC PULIZZI;;148702-0802037476;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;Power Distribution, AC PULIZZI;;148702-0802037479;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;Power Distribution, AC PULIZZI;;148702-0802037481;;;;;;;;;;;CCS;CCS Bay 6 SPARE
+;CCS;Power Distribution, AC PULIZZI;;155146-0806037521;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;Power Distribution, AC PULIZZI;;155146-0806037524;;;;;;;;;;;CCS;CCS IOS
+;CCS;Power Distribution, AC PULIZZI;;156329-0807037529;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;Power Distribution, AC PULIZZI;;156329-0807037534;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;PYL PRO PYX-3X;;700012;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;PYL PRO PYX-3X;;700382;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;PYL PRO PYX-3X;;700489;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;PYL PRO PYX-3X;;700491;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;PYL PRO PYX-3X;;700492;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;PYL PRO PYX-3X;;700581;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;Samsung 22 Monitor 225BW;;"DP22HVMPC01144V;;;;;;;;;;;CCS;CCS IOS CCTV
+;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00168L;;;;;;;;;;;CCS;CCS IOS AAR IG1
+;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00173E;;;;;;;;;;;CCS;CCS IOS AAR IG2
+;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00174F;;;;;;;;;;;CCS;CCS IOS SIMI 2ND
+;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00176H;;;;;;;;;;;CCS;CCS IOS SIMI MAIN
+;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00261X;;;;;;;;;;;CCS;CCS IOS AAR IG3
+;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00262N;;;;;;;;;;;CCS;CCS IOS EXCON MAIN
+;CCS;Samsung 22 Monitor 225BW;;"DP22HVNPC00263E;;;;;;;;;;;CCS;CCS IOS EXCON 2ND
+;CCS;Trainer Assembly-HMMWV [16331ASSY6404130G1];;013;16331ASSY6404130G1;;;;;;;;;;CCS;CCS BAY 3
+;CCS;Trainer Assembly-HMMWV [16331ASSY6404130G1];;014;16331ASSY6404130G1;;;;;;;;;;CCS;CCS BAY 4
+;CCS;Trainer Assembly-HMMWV [16331ASSY6404130G1];;015;16331ASSY6404130G1;;;;;;;;;;CCS;CCS BAY 5
+;CCS;Trainer Assembly-HMMWV [16331ASSY6404130G1];;016;16331ASSY6404130G1;;;;;;;;;;CCS;CCS BAY 6
+;CCS;Trainer Assembly-MTVR [16331ASSY6404014G1];;007;16331ASSY6404014G1;;;;;;;;;;CCS;BAY 1
+;CCS;Trainer Assembly-MTVR [16331ASSY6404014G1];;008;16331ASSY6404014G1;;;;;;;;;;CCS;BAY 2
+;CCS;UPS (Uninterruptible Power Supply) EATON;;BM343FBB10;;;;;;;;;;;CCS;IOS
+;CCS;UPS (Uninterruptible Power Supply) EATON;;BM343FBB11;;;;;;;;;;;CCS;Bay 3
+;CCS;UPS (Uninterruptible Power Supply) EATON;;BM422FBB06;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;UPS (Uninterruptible Power Supply) EATON;;FB392FBB01;;;;;;;;;;;CCS;BAD NEEDS TO BE SENT TO DRMO
+;CCS;UPS (Uninterruptible Power Supply) EATON;;FB392FBB02;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;UPS (Uninterruptible Power Supply) EATON;;FB392FBB03;;;;;;;;;;;CCS;CCS Bay 4
+;CCS;UPS (Uninterruptible Power Supply) EATON;;FB392FBB04;;;;;;;;;;;CCS;BAD NEEDS TO BE SENT TO DRMO
+;CCS;UPS (Uninterruptible Power Supply) EATON;;FB392FBB05;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;UPS (Uninterruptible Power Supply) EATON;;FB392FBB06;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;UPS (Uninterruptible Power Supply) EATON;;FB392FBB07;;;;;;;;;;;CCS;BAD NEEDS TO BE SENT TO DRMO
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528919;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 3 BFI527599
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528920;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 4 BFI504246
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528921;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 5 BFI678223
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528922;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 5 BFI594899
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528923;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 5 BFI610400
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528925;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 6 BFI526589
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528926;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 3 BFI526462
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528927;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 6 BFI610330
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528928;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 4 BFI527600
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528929;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 4 BFI504105
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528931;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 3 On BFI475820
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528932;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 2 BFI504233
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528933;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 6 BFI594897
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528934;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 5 BFI526457
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528935;TA31RCOA4;;;;;;;;;;CCS;Bay 4 Locker
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528936;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 5 BFI526521
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528937;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 3 BFI527594
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528972;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 4 BFI526525
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528973;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 4 BFI526557
+;CCS;(USMC) A4 RCO Scope [TA31RCOA4];;528974;TA31RCOA4;;;;;;;;;;CCS;CCS Bay 6 BFI526520
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05514;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05516;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05520;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05521;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05528;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05534;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05545;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05546;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05547;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;05548;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;070484;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) Adapter [AN/PEQ-2A];;070485;AN/PEQ-2A;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208290;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208368;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208378;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208379;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208380;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208381;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208382;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208383;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208384;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208385;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208386;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208387;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208388;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) AN/PVS-14 Monocular Kit [245620-007];;208398;245620-007;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) Fill Station Assembly BlueFire [1022941];;A073712;1022941;;;;;;;;;;CCS;CCS 2nd
+;CCS;(USMC) Fill Station Assembly BlueFire [1022941];;A076493;1022941;;;;;;;;;;CCS;CCS 1ST
+;CCS;(USMC) M240G Machine Gun [1009292];;C04340;1009292;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) M240G Machine Gun [1009292];;C04469;1009292;;;;;;;;;;CCS;CCS Bay 3 SPARE
+;CCS;(USMC) M240G Machine Gun [1009292];;FN95630;1009292;;;;;;;;;;CCS;CCS Bay 3 Mounted
+;CCS;(USMC) M240G Machine Gun [1009292];;RA1028;1009292;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI475503;1024534-04;;;;;;;;;;CCS;CCS Bay 4 RCO 932120
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI475628;1024534-04;;;;;;;;;;CCS;CCS Bay 1 w/RCO 932247
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI475639;1024534-04;;;;;;;;;;CCS;CCS Bay 6 w/RCO 932314
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI475820;1024534-04;;;;;;;;;;CCS;CCS Bay 3 RCO 528931
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI475884;1024534-04;;;;;;;;;;CCS;CCS Bay 1 w/RCO 932325
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI504233;1024534-04;;;;;;;;;;CCS;CCS Bay 2 RCO 528932
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI504246;1024534-04;;;;;;;;;;CCS;CCS Bay 4 RCO 528920
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI526570;1024534-04;;;;;;;;;;CCS;CCS Bay 3 w/RCO 932178
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI526589;1024534-04;;;;;;;;;;CCS;CCS Bay 6 RCO528925
+;CCS;(USMC) M4 Rifle BlueFire [1024534-04];;BFI610400;1024534-04;;;;;;;;;;CCS;CCS Bay 5 RCO 528923
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000090;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000306;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000336;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000368;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000458;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000495;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000568;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000704;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000721;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000757;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000873;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000942;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S000961;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001034;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001048;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001061;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001071;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001163;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S001576;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S002136;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S002760;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S003580;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S003711;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004124;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004205;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004259;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S004323;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005115;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005160;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005182;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005187;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005199;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005210;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005231;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005233;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005244;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005250;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005265;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005358;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005383;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005386;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005447;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005466;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005467;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005498;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005500;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005510;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005520;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005521;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005522;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005523;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005524;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005532;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005534;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005536;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005538;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005540;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005543;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005554;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005572;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005574;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005575;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005576;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005581;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005586;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005592;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005605;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005606;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005623;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S005626;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006322;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006484;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006498;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006499;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006500;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006501;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006502;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006503;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006504;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006507;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006508;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006513;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006516;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006522;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006523;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006524;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006525;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006526;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006527;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006529;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006530;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006531;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006532;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006534;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006536;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006537;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006538;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006540;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006541;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006542;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006543;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006544;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006557;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006559;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006560;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006567;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006571;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006583;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006588;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006589;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006590;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006595;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006602;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006618;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006619;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006620;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006622;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006623;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006629;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006631;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006634;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006635;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006639;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006641;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006644;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006645;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006650;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006656;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006677;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006739;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006740;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006761;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006776;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006777;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006785;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006797;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006798;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006815;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006823;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006830;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006839;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006842;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006845;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006848;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006853;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006891;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006892;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006893;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006901;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006911;1024520;;;;;;;;;;CCS;Bay 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S006912;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S007046;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S007607;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008404;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008417;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008551;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008605;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S008609;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S011185;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S012605;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S012626;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S012646;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S012650;1024520;;;;;;;;;;CCS;Spare Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S012653;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S013068;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S013072;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S013075;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S013088;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S013120;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S013155;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S017050;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S017075;1024520;;;;;;;;;;CCS;Bay 2
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S017076;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 1
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S017078;1024520;;;;;;;;;;CCS;Bay 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S017080;1024520;;;;;;;;;;CCS;Bay 6
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S017087;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S017091;1024520;;;;;;;;;;CCS;Bay 5
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S017095;1024520;;;;;;;;;;CCS;Bay 4
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019536;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019594;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019595;1024520;;;;;;;;;;CCS;CCS SPARE
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019662;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019734;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019742;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019759;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019945;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;M4S019953;1024520;;;;;;;;;;CCS;CCS SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;SA800180;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC) M4/SRS Magazine BlueFire [1024520];;SA800187;1024520;;;;;;;;;;CCS;SPARE Bay 1 Box 3
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;895752;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 1 on BFI526479
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;931986;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 1 on BFI526523
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;931992;TA31RCOM855;;;;;;;;;;CCS;Bay 5 on BFI677548
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932054;TA31RCOM855;;;;;;;;;;CCS;Bay 4 Locker
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932061;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 2 BFI504086
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932078;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 2 on BFI526444
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932117;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 6 on BFI467689
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932120;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 4 BFI475503
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932127;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 1 on BFI512036
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932133;TA31RCOM855;;;;;;;;;;CCS;Bay 6 on BFI467650
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932134;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 2 on BFI526455
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932178;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 3 on BFI526570
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932247;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 1 on BFI475628
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932261;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 1 on BFI526328
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932266;TA31RCOM855;;;;;;;;;;CCS;Bay 2 on BFI468305
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932270;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 3 on BFI526449
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932276;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 2 on BFI526458
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932280;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 4 on BFI504123
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932314;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 6 on BFI475639
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932325;TA31RCOM855;;;;;;;;;;CCS;Bay 1 on BFI 475884
+;CCS;(USMC)M7-Variant M4/M16 RCO Scope [TA31RCOM855];;932792;TA31RCOM855;;;;;;;;;;CCS;CCS Bay 6 on BFI526437
+;CCS;(USMC) MK19 Grenade Launcher [1009290];;1300;1009290;;;;;;;;;;CCS;CCS Bay 5
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100016344;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100033472;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100043043;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100044299;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100067261;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100067267;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100069545;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100069546;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100069547;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100069550;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;100070176;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;3075054;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;90221049;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;90240899;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) Nightvision Goggle (Bino) [AN/PVS-7B];;90243071;Bino;;;;;;;;;;CCS;CCS Bay 5 Locker
+;CCS;(USMC) NVG Rifle Scope [AN/PVS-17];;110140;AN/PVS-17;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) NVG Rifle Scope [AN/PVS-17];;110141;AN/PVS-17;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) NVG Rifle Scope [AN/PVS-17];;110142;AN/PVS-17;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) NVG Rifle Scope [AN/PVS-17];;110143;AN/PVS-17;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) NVG Rifle Scope [AN/PVS-17];;110144;AN/PVS-17;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) NVG Rifle Scope [AN/PVS-17];;110145;AN/PVS-17;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) NVG Rifle Scope [AN/PVS-17];;110146;AN/PVS-17;;;;;;;;;;CCS;CCS Bay 6 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275215;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275216;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275218;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275219;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275220;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275221;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275222;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275223;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;275224;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;276924;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;276925;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) PEQ-15 ATPIAL,GENERIC ATPL ASST STD LOW/PRO TAN;;276987;;;;;;;;;;;CCS;CCS Bay 2 Locker
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI467650;1024515-07;;;;;;;;;;CCS;CCS Bay 6 w/ RCO 932133
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI467689;1024515-07;;;;;;;;;;CCS;CCS Bay 6 RCO 932117
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI468305;1024515-07;;;;;;;;;;CCS;CCS Bay 2 Spare w/RCO 932266
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI504086;1024515-07;;;;;;;;;;CCS;CCS Bay 2 RCO 932061
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI504105;1024515-07;;;;;;;;;;CCS;CCS Bay 4 RCO 528929
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI504123;1024515-07;;;;;;;;;;CCS;CCS Bay 4 SPARE w/RCO 932280
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI512036;1024515-07;;;;;;;;;;CCS;CCS Bay 1 w/RCO 932127
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526328;1024515-07;;;;;;;;;;CCS;CCS Bay 1 w/RCO 932261
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526437;1024515-07;;;;;;;;;;CCS;CCS Bay 6 w/RCO 932792
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526444;1024515-07;;;;;;;;;;CCS;CCS Bay 2 w/RCO 932078
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526449;1024515-07;;;;;;;;;;CCS;CCS Bay 3 SPARE w/RCO 932270
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526455;1024515-07;;;;;;;;;;CCS;CCS Bay 2 w/RCO 932134
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526457;1024515-07;;;;;;;;;;CCS;CCS Bay 5 RCO 528934
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526458;1024515-07;;;;;;;;;;CCS;CCS Bay 2 w/RCO 932276
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526462;1024515-07;;;;;;;;;;CCS;CCS Bay 3 RCO 528926
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526479;1024515-07;;;;;;;;;;CCS;CCS Bay 1 w/RCO 895752
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526520;1024515-07;;;;;;;;;;CCS;CCS Bay 6 RCO 528974
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526521;1024515-07;;;;;;;;;;CCS;CCS Bay 5 RCO 528936
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526523;1024515-07;;;;;;;;;;CCS;CCS Bay 1 w/RCO 931986
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526525;1024515-07;;;;;;;;;;CCS;CCS Bay 4 RCO 528972
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI526557;1024515-07;;;;;;;;;;CCS;CCS Bay 4 RCO 528973
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI527594;1024515-07;;;;;;;;;;CCS;CCS Bay 3 RCO 528937
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI527599;1024515-07;;;;;;;;;;CCS;CCS Bay 3 RCO 528919
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI527600;1024515-07;;;;;;;;;;CCS;CCS Bay 4 RCO 528928
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI594897;1024515-07;;;;;;;;;;CCS;CCS Bay 6 RCO 528933
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI594899;1024515-07;;;;;;;;;;CCS;CCS Bay 5 RCO 528922
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI610330;1024515-07;;;;;;;;;;CCS;CCS Bay 6 RCO 528927
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI677548;1024515-07;;;;;;;;;;CCS;CCS Bay 5 w/RCO 931992
+;CCS;(USMC) SRS/M16A4 Rifle BlueFire [1024515-07];;BFI678223;1024515-07;;;;;;;;;;CCS;CCS Bay5 RCO 528921
+;CCS;WAGO;;0001;;;;;;;;;;;CCS;CCS Bay 6
+;CCS;WAGO;;0007;;;;;;;;;;;CCS;CCS Bay 2
+;CCS;WAGO;;0009;;;;;;;;;;;CCS;CCS Bay 1
+;CCS;WAGO;;0010;;;;;;;;;;;CCS;CCS Bay 5
+;CCS;WAGO;;0017;;;;;;;;;;;CCS;CCS Bay 3
+;CCS;WAGO;;0018;;;;;;;;;;;CCS;CCS Bay 4
